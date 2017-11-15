@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.harrisonwelch.orderandchaos.AboutActivity"
+    android:orientation="vertical"
+    android:background="#FFF">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This application is an implementation of an old game called 'Order and Chaos' where one player is Order and the other is Chaos. The order player wants to create a row, column, or diagonal of 5 pieces ('X' or 'O') in a row. But, Chaos wins if the board is filled up (36 slots) and Order never won."
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This application was designed by Harrison Welch"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+</LinearLayout>
