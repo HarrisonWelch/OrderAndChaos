@@ -27,5 +27,7 @@ From the apps home screen. Press "Play Order and Chaos." The game opens on a bla
 ## Details
 
 Class: CSCI 4010 Mobile Development
+
 Author: Harrison Welch
+
 Date: 11-19-2017
