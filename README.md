@@ -6,7 +6,7 @@ This an Android project where the old 1981 board game called "[Order and Chaos](
 
 ## Screenshots
 
-![alt text](https://github.com/SUPERharrison/OrderAndChaos/blob/master/screenshots/title_screen.png)
+![alt text](https://github.com/SUPERharrison/OrderAndChaos/blob/master/screenshots/all_together.png)
 
 ## Details
 
