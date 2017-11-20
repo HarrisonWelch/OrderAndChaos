@@ -375,6 +375,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
 
     public void reset(){
         isEndOfGame = false;
+        numberOfPiecesPlaced = 0;
         for(int i = 0; i < gameBoardIds2D.length; i++){ // col
             for(int j = 0; j < gameBoardIds2D[i].length; j++){ //row
                 gameBoardImages[i][j] = R.drawable.white_square;
